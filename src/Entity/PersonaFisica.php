@@ -146,6 +146,7 @@ class PersonaFisica
         return $this;
     }
 
+    
     public function getSexo(): ?Sexo
     {
         return $this->sexo;
